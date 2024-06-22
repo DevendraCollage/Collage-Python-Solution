@@ -19,7 +19,7 @@
 
 <h1>2. Practical Lab-2</h1>
 
-[Solution For Practical-Lab-1](https://github.com/DevendraCollage/Collage-Python-Solution/tree/main/21-06-2024/Lab-2%20Solution)
+[Solution For Practical-Lab-2](https://github.com/DevendraCollage/Collage-Python-Solution/tree/main/21-06-2024/Lab-2%20Solution)
 
 ```
 1. WAP to check whether the given number is positive or negative.
